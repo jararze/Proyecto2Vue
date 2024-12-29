@@ -57,7 +57,7 @@ lucha-robots/
 ```bash
 
 
-git clone <url-del-repositorio>
+git clone https://github.com/jararze/Proyecto2Vue
 
 cd lucha-robots
 

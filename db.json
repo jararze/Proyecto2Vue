@@ -1,0 +1,227 @@
+{
+  "robots": [
+    {
+      "id": "1",
+      "nombre": "Mecha-ZY",
+      "fuerza": 80,
+      "velocidad": 60,
+      "defensa": 70,
+      "estado": "Activo"
+    },
+    {
+      "id": "2",
+      "nombre": "Destroyer 90",
+      "fuerza": 90,
+      "velocidad": 50,
+      "defensa": 85,
+      "estado": "Activo"
+    },
+    {
+      "id": "3",
+      "nombre": "Steel Titan",
+      "fuerza": 75,
+      "velocidad": 65,
+      "defensa": 80,
+      "estado": "Activo"
+    },
+    {
+      "id": "4",
+      "nombre": "Robo Knight",
+      "fuerza": 70,
+      "velocidad": 60,
+      "defensa": 75,
+      "estado": "Inactivo"
+    },
+    {
+      "id": "5",
+      "nombre": "Crimson Bot",
+      "fuerza": 85,
+      "velocidad": 55,
+      "defensa": 65,
+      "estado": "Activo"
+    },
+    {
+      "id": "6",
+      "nombre": "Aero Droid",
+      "fuerza": 60,
+      "velocidad": 80,
+      "defensa": 70,
+      "estado": "Activo"
+    },
+    {
+      "id": "7",
+      "nombre": "Iron Fist",
+      "fuerza": 95,
+      "velocidad": 40,
+      "defensa": 90,
+      "estado": "Activo"
+    },
+    {
+      "id": "8",
+      "nombre": "Cyber Phantom",
+      "fuerza": 65,
+      "velocidad": 75,
+      "defensa": 80,
+      "estado": "Inactivo"
+    },
+    {
+      "id": "9",
+      "nombre": "Quantum Strike",
+      "fuerza": 70,
+      "velocidad": 70,
+      "defensa": 85,
+      "estado": "Activo"
+    },
+    {
+      "id": "10",
+      "nombre": "Shadow Core",
+      "fuerza": 85,
+      "velocidad": 60,
+      "defensa": 90,
+      "estado": "Activo"
+    },
+    {
+      "id": "e03c",
+      "nombre": "dsadsa21",
+      "fuerza": 0,
+      "velocidad": 0,
+      "defensa": 0,
+      "estado": "Activo"
+    },
+    {
+      "id": "1115",
+      "nombre": "Jorge",
+      "fuerza": 99,
+      "velocidad": 99,
+      "defensa": 99,
+      "estado": "Activo"
+    },
+    {
+      "id": "f3bc",
+      "nombre": "Prueba 4",
+      "fuerza": 1,
+      "velocidad": 1,
+      "defensa": 1,
+      "estado": "Activo"
+    }
+  ],
+  "torneos": [
+    {
+      "id": "1",
+      "nombre": "Batalla en el Desierto0",
+      "fecha": "2027-06-09",
+      "participantes": [
+        "3",
+        "5"
+      ]
+    },
+    {
+      "id": "2",
+      "nombre": "Circuito de Combate",
+      "fecha": "2025-10-15",
+      "participantes": [
+        "2",
+        "3"
+      ]
+    },
+    {
+      "id": "3",
+      "nombre": "Lucha en el Cráter",
+      "fecha": "2025-02-07",
+      "participantes": [
+        "2",
+        "3"
+      ]
+    },
+    {
+      "id": "4",
+      "nombre": "Choque de Gigantes",
+      "fecha": "2025-01-06",
+      "participantes": [
+        "e03c",
+        "1115"
+      ]
+    },
+    {
+      "id": "5",
+      "nombre": "Arena de Titanes",
+      "fecha": "2025-09-26",
+      "participantes": [
+        "8",
+        "9"
+      ]
+    },
+    {
+      "id": "6",
+      "nombre": "Colisión en el Hielo",
+      "fecha": "2025-08-14",
+      "participantes": [
+        "3",
+        "4"
+      ]
+    },
+    {
+      "id": "7",
+      "nombre": "Asalto Nocturno",
+      "fecha": "2025-01-07",
+      "participantes": [
+        "10",
+        "e03c"
+      ]
+    },
+    {
+      "id": "8",
+      "nombre": "Guerras de Acero",
+      "fecha": "2025-12-28",
+      "participantes": [
+        "9",
+        "10"
+      ]
+    },
+    {
+      "id": "9",
+      "nombre": "Robo Duel",
+      "fecha": "2025-03-11",
+      "participantes": [
+        "4",
+        "8"
+      ]
+    },
+    {
+      "id": "10",
+      "nombre": "Final Épica",
+      "fecha": "2025-03-18",
+      "participantes": [
+        "2",
+        "1115"
+      ]
+    },
+    {
+      "id": "95f0",
+      "nombre": "Torneo Pruebaaaa",
+      "fecha": "2027-05-20",
+      "participantes": [
+        "2",
+        "1115"
+      ]
+    },
+    {
+      "id": "a97b",
+      "nombre": "torneo de prueba 3",
+      "fecha": "2025-01-11",
+      "participantes": [
+        "2",
+        "4"
+      ]
+    },
+    {
+      "id": "2fd1",
+      "nombre": "Torno en desventaja",
+      "fecha": "2024-12-31",
+      "participantes": [
+        "1",
+        "f3bc"
+      ]
+    }
+  ]
+}
